@@ -1,2 +1,3 @@
 # hello-world
 my first repo
+I am still learning programming but I would like to get my feet wet in the business. I have used programming to complete online tutorials so working on small projects is my aim. I am not afraid to learn, and I aim to do my best. Also, I am a small farmer, a college student, and I do volunteer work for my House of Prayer. As a farmer, I demonstrate responsibility by tend to my animals almost all times of the day and I work very hard to keep the place clean. As a student, I uphold integrity by facing my mistakes, so I can learn. As a representative of the Church, I work hard to be fair and kind.
